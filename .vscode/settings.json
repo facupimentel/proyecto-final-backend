@@ -1,0 +1,11 @@
+{
+  "cSpell.words": ["aqui", "AQUI", "codigo", "ENRUTAMIENTO", "estan"],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:4-express}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
+}

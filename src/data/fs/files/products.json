@@ -1,0 +1,301 @@
+[
+  {
+    "_id": "874b6e088ce1cdb25c9dde92",
+    "title": "Oriental Cotton Shoes",
+    "price": "144.99",
+    "stock": 893,
+    "photo": "https://loremflickr.com/704/3902?lock=5249999302331391",
+    "category": "computadoras"
+  },
+  {
+    "_id": "9baea4a8219baf1a299b51fc",
+    "title": "Gorgeous Metal Gloves",
+    "price": "277.49",
+    "stock": 443,
+    "photo": "https://picsum.photos/seed/isisU/344/3870",
+    "category": "computadoras"
+  },
+  {
+    "_id": "7f777c2f4ecba5f998a11c82",
+    "title": "Oriental Metal Cheese",
+    "price": "276.92",
+    "stock": 743,
+    "photo": "https://loremflickr.com/1841/3179?lock=862882851804976",
+    "category": "celulares"
+  },
+  {
+    "_id": "3e0bf6f920f94dac52bec676",
+    "title": "Licensed Aluminum Fish",
+    "price": "46.99",
+    "stock": 812,
+    "photo": "https://loremflickr.com/2175/3020?lock=4767182430159187",
+    "category": "celulares"
+  },
+  {
+    "_id": "8eaa7b031c33ecc9f5de3b55",
+    "title": "Oriental Silk Pants",
+    "price": "357.95",
+    "stock": 527,
+    "photo": "https://loremflickr.com/2547/1678?lock=3174316179736799",
+    "category": "accesorios"
+  },
+  {
+    "_id": "ab93ad5a8a0ae3ccd0cf5dfb",
+    "title": "Handcrafted Bamboo Mouse",
+    "price": "329.69",
+    "stock": 677,
+    "photo": "https://loremflickr.com/3334/1779?lock=6113101188684679",
+    "category": "computadoras"
+  },
+  {
+    "_id": "e6e155efe12e7dfa591f5660",
+    "title": "Tasty Bronze Gloves",
+    "price": "394.20",
+    "stock": 100,
+    "photo": "https://picsum.photos/seed/pyI17vNt4/1539/681",
+    "category": "accesorios"
+  },
+  {
+    "_id": "e9b0dd7eaec3ae3a49885dae",
+    "title": "Soft Ceramic Towels",
+    "price": "138.00",
+    "stock": 171,
+    "photo": "https://picsum.photos/seed/z4474EDy9/740/686",
+    "category": "celulares"
+  },
+  {
+    "_id": "bdc49ac2d612f6eebf91cdcb",
+    "title": "Rustic Cotton Cheese",
+    "price": "246.88",
+    "stock": 931,
+    "photo": "https://loremflickr.com/2552/189?lock=2246083395974349",
+    "category": "celulares"
+  },
+  {
+    "_id": "bde4cbcb7bf94f8dae8e1a9d",
+    "title": "Incredible Rubber Hat",
+    "price": "19.69",
+    "stock": 814,
+    "photo": "https://loremflickr.com/3775/3866?lock=2274050548335668",
+    "category": "computadoras"
+  },
+  {
+    "_id": "a3fd624deccad95b3dcf37d5",
+    "title": "Tasty Marble Mouse",
+    "price": "498.95",
+    "stock": 340,
+    "photo": "https://picsum.photos/seed/vCOaOQS/2375/269",
+    "category": "accesorios"
+  },
+  {
+    "_id": "f6580a74fd8ef66bf8ecf2dd",
+    "title": "Sleek Concrete Salad",
+    "price": "278.29",
+    "stock": 128,
+    "photo": "https://picsum.photos/seed/ZtbgcJp/2744/29",
+    "category": "computadoras"
+  },
+  {
+    "_id": "fc8d6a1bb0a914d43e523fb5",
+    "title": "Handmade Aluminum Ball",
+    "price": "414.70",
+    "stock": 811,
+    "photo": "https://loremflickr.com/3558/2831?lock=1332474045526239",
+    "category": "accesorios"
+  },
+  {
+    "_id": "b81295190d9bb6de0d0e8b71",
+    "title": "producto actualizado",
+    "price": 100,
+    "stock": 200,
+    "photo": "https://picsum.photos/seed/FBEYAJys8d/2580/1525",
+    "category": "accesorios"
+  },
+  {
+    "_id": "a50aee110f2964f9dcffecc6",
+    "title": "product 1",
+    "stock": 100,
+    "price": 100,
+    "category": "accesorios"
+  },
+  {
+    "_id": "f7dd765ad27e40ca1c5ff01f",
+    "title": "titulo",
+    "price": "200",
+    "stock": "3"
+  },
+  {
+    "_id": "3ac8f790e0ca80be69b87da4",
+    "title": "producto prueba",
+    "price": "500",
+    "stock": "600",
+    "photo": "https://resizer.glanacion.com/resizer/v2/asi-es-la-nueva-playstation-5-pro-que-saldra-a-la-VXWJUJ4TI5BALI2JVRF47FJL2E.jpg?auth=cf2bc886d6e461bd25b1178983c884ffbd8070e21d6a76a0314c0f54f3e60ceb&width=1200&quality=70&smart=false&height=800"
+  },
+  {
+    "_id": "3e9159ea2f4faf3a9f7c14aa",
+    "title": "product nuevo",
+    "price": "633",
+    "stock": "841",
+    "photo": "https://acdn.mitiendanube.com/stores/001/476/675/products/manaos-pomelo1-aa15827a8c4ad4c9a616176347891266-640-0.jpg"
+  },
+  {
+    "_id": "fc8d6a1bb0a914d43e523fb5",
+    "title": "Handmade Aluminum Ball",
+    "price": "414.70",
+    "stock": 811,
+    "photo": "https://loremflickr.com/3558/2831?lock=1332474045526239",
+    "category": "accesorios"
+  },
+  {
+    "_id": "a1b2c3d4e5f6789012345678",
+    "title": "Ergonomic Wooden Chair",
+    "price": "229.99",
+    "stock": 432,
+    "photo": "https://loremflickr.com/4000/3000?lock=987654321",
+    "category": "muebles"
+  },
+  {
+    "_id": "1234567890abcdef12345678",
+    "title": "Stylish Leather Wallet",
+    "price": "89.50",
+    "stock": 1200,
+    "photo": "https://loremflickr.com/2000/2000?lock=1122334455",
+    "category": "accesorios"
+  },
+  {
+    "_id": "abcdef1234567890abcdef12",
+    "title": "Wireless Bluetooth Speaker",
+    "price": "159.99",
+    "stock": 650,
+    "photo": "https://loremflickr.com/5000/4000?lock=2233445566",
+    "category": "electronica"
+  },
+  {
+    "_id": "7890abcdef1234567890abcd",
+    "title": "Stainless Steel Water Bottle",
+    "price": "34.95",
+    "stock": 980,
+    "photo": "https://loremflickr.com/1500/2500?lock=3344556677",
+    "category": "hogar"
+  },
+  {
+    "_id": "abcdefabcdefabcdefabcdef12",
+    "title": "Vintage Sunglasses",
+    "price": "124.99",
+    "stock": 523,
+    "photo": "https://loremflickr.com/1600/1200?lock=4455667788",
+    "category": "moda"
+  },
+  {
+    "_id": "123abc456def789ghi101112",
+    "title": "Compact Travel Backpack",
+    "price": "79.99",
+    "stock": 745,
+    "photo": "https://loremflickr.com/1800/1400?lock=5566778899",
+    "category": "accesorios"
+  },
+  {
+    "_id": "98a76b54c32d10e98f765432",
+    "title": "Ergonomic Office Chair",
+    "price": "399.00",
+    "stock": 320,
+    "photo": "https://loremflickr.com/1900/1300?lock=6677889900",
+    "category": "muebles"
+  },
+  {
+    "_id": "a1b2c3d4e5f6789012345678",
+    "title": "Professional DSLR Camera",
+    "price": "2499.99",
+    "stock": 85,
+    "photo": "https://loremflickr.com/2100/1700?lock=7788990011",
+    "category": "electronica"
+  },
+  {
+    "_id": "aabbccddeeff001122334455",
+    "title": "Handcrafted Ceramic Vase",
+    "price": "55.00",
+    "stock": 215,
+    "photo": "https://loremflickr.com/2200/1600?lock=8899001122",
+    "category": "decoracion"
+  },
+  {
+    "_id": "00112233445566778899aabb",
+    "title": "Smartwatch with Heart Monitor",
+    "price": "199.99",
+    "stock": 490,
+    "photo": "https://loremflickr.com/2300/1500?lock=9900112233",
+    "category": "electronica"
+  },
+  {
+    "_id": "abcdef1234567890abcdef99",
+    "title": "Luxury Cotton Bed Sheets",
+    "price": "129.50",
+    "stock": 765,
+    "photo": "https://loremflickr.com/2400/1400?lock=0011223344",
+    "category": "hogar"
+  },
+  {
+    "_id": "1234abcd5678efgh9012ijkl",
+    "title": "Minimalist Wall Clock",
+    "price": "45.00",
+    "stock": 620,
+    "photo": "https://loremflickr.com/2500/1500?lock=1122334455",
+    "category": "decoracion"
+  },
+  {
+    "_id": "abcd1234efgh5678ijkl9012",
+    "title": "Portable Coffee Maker",
+    "price": "75.99",
+    "stock": 390,
+    "photo": "https://loremflickr.com/2600/1600?lock=2233445566",
+    "category": "hogar"
+  },
+  {
+    "_id": "5678abcd9012efgh3456ijkl",
+    "title": "Noise Cancelling Headphones",
+    "price": "299.99",
+    "stock": 150,
+    "photo": "https://loremflickr.com/2700/1700?lock=3344556677",
+    "category": "electronica"
+  },
+  {
+    "_id": "7890ijkl1234abcd5678efgh",
+    "title": "Wooden Desk Organizer",
+    "price": "32.50",
+    "stock": 830,
+    "photo": "https://loremflickr.com/2800/1800?lock=4455667788",
+    "category": "oficina"
+  },
+  {
+    "_id": "9012abcd5678efgh3456ijkl",
+    "title": "LED Desk Lamp",
+    "price": "58.00",
+    "stock": 440,
+    "photo": "https://loremflickr.com/2900/1900?lock=5566778899",
+    "category": "iluminacion"
+  },
+  {
+    "_id": "abcd5678efgh9012ijkl3456",
+    "title": "Cotton Throw Blanket",
+    "price": "42.75",
+    "stock": 510,
+    "photo": "https://loremflickr.com/3000/2000?lock=6677889900",
+    "category": "hogar"
+  },
+  {
+    "_id": "efgh9012ijkl3456abcd5678",
+    "title": "Vintage Record Player",
+    "price": "179.90",
+    "stock": 125,
+    "photo": "https://loremflickr.com/3100/2100?lock=7788990011",
+    "category": "electronica"
+  },
+  {
+    "_id": "ijkl3456abcd5678efgh9012",
+    "title": "Handmade Wooden Bowl Set",
+    "price": "88.30",
+    "stock": 295,
+    "photo": "https://loremflickr.com/3200/2200?lock=8899001122",
+    "category": "hogar"
+  }
+]

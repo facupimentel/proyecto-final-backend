@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "43bddbe41c199adef7c7fd31",
+    "name": "tyrone",
+    "lastName": "hansen",
+    "email": "tyrone.hansen@pimentel.com",
+    "password": "hola1234",
+    "age": 28,
+    "avatar": "https://avatars.githubusercontent.com/u/90288232",
+    "role": "user"
+  },
+  {
+    "_id": "c67b748b049cedc9343bf95b",
+    "name": "kerry",
+    "lastName": "frami",
+    "email": "kerry.frami@pimentel.com",
+    "password": "hola1234",
+    "age": 56,
+    "avatar": "https://avatars.githubusercontent.com/u/49193533",
+    "role": "premium",
+    "response": {
+      "_id": "c67b748b049cedc9343bf95b",
+      "name": "facundo",
+      "lastName": "pimentel",
+      "email": "pimentelfacundo22@gmail.com",
+      "password": "aguanteboca",
+      "age": 23,
+      "avatar": "https://avatars.githubusercontent.com/u/49193533",
+      "role": "admin"
+    }
+  },
+  {
+    "_id": "e483ecf1e6da895bfbf95cda",
+    "name": "dr.",
+    "lastName": "dwight",
+    "email": "dr..dwight.rohan.iv@pimentel.com",
+    "password": "hola1234",
+    "age": 57,
+    "avatar": "https://avatars.githubusercontent.com/u/77898871",
+    "role": "admin"
+  },
+  {
+    "_id": "df8f9a9fcabd7eceea6fcbdd",
+    "name": "raul",
+    "lastName": "bernier",
+    "email": "raul.bernier@pimentel.com",
+    "password": "hola1234",
+    "age": 73,
+    "avatar": "https://avatars.githubusercontent.com/u/97964880",
+    "role": "premium"
+  },
+  {
+    "_id": "6a8f3b8473c3d21583a3ec89",
+    "name": "eric",
+    "lastName": "bergnaum",
+    "email": "eric.bergnaum@pimentel.com",
+    "password": "hola1234",
+    "age": 79,
+    "avatar": "https://avatars.githubusercontent.com/u/74609346",
+    "role": "user"
+  },
+  {
+    "_id": "75ec9c3e4c097fcee5fe78cf",
+    "name": "facundo",
+    "lastName": "pimentel",
+    "email": "pimenetelfacundo22@gmail.com",
+    "password": "hola1234",
+    "age": 23,
+    "avatar": "https://avatars.githubusercontent.com/u/97964880"
+  },
+  {
+    "_id": "d8bb6acaeacdf3c1cd777083",
+    "email": "facu_santo09@hotmail.com",
+    "password": "hola1234",
+    "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unoentrerios.com.ar%2Fpoliciales%2Fme-mataron-vida-quiero-justicia-reclama-la-madre-un-adolescente-asesinado-n1668779.html&psig=AOvVaw1EAw78nFbDLQSuCeKVNEL0&ust=1739590308445000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiyi4WdwosDFQAAAAAdAAAAABAE"
+  },
+  {
+    "_id": "84dba76d859fe8cd6bbd7435",
+    "email": "facu_santo09@hotmail.com",
+    "password": "hola1234",
+    "avatar": "https://media.lacapital.com.ar/p/9d8ce48779622da75e1ad2f97c04256e/adjuntos/205/imagenes/024/380/0024380928/642x0/smart/16f1jpg.jpg"
+  },
+  {
+    "_id": "2327945ffbfcea31fecd1f28",
+    "email": "facu_santo09@hotmail.com",
+    "password": "hola1234",
+    "avatar": "https://www.infobae.com/resizer/v2/KQULGXVSRZANNHPGG3P2IY32RU.jpg?auth=9d940da2d7c9de0bd0934e29227f5fc25c0d70d919be44a116d818f40632d9f2&smart=true&width=350&height=197&quality=85"
+  },
+  {
+    "_id": "3bb95e0eee870cbf899d50da",
+    "name": "usuario",
+    "lastName": "desconocido",
+    "email": "email@gmail.com",
+    "password": "hola1234",
+    "age": 45,
+    "avatar": "https://avatars.githubusercontent.com/u/97964880"
+  },
+  {
+    "_id": "3d67f1c2e2bba7be6cffebb0",
+    "name": "usuario",
+    "lastName": "desconocido",
+    "email": "email@unknow.com",
+    "password": "hola1234",
+    "age": 45,
+    "avatar": "https://avatars.githubusercontent.com/u/97964880"
+  }
+]

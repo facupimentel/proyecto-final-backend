@@ -1,0 +1,27 @@
+<main>
+  <img src="/img/logo.png" alt="" style="width: 100%; heigth: 100%;"/>
+  <h1 style="text-align: center; margin: 40px 0px;">INICIO</h1>
+  <section style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    {{!-- con esto iteramos - repetimos la estructura --}}
+    {{#each products}}
+      <div class="card" style="width: 18rem;">
+        {{#if this.photo}}
+        <img src={{this.photo}} style="width: 16rem; height: 18rem;
+      object-fit: cover;" />
+        {{else}}
+        <img src="http://cdn-icons-png.flaticon.com/512/9402/9402212.png" alt="">
+        {{/if}}
+        <div class="card-body">
+          <h5 class="card-title">{{this.title}}</h5> 
+          <p class="card-text">USD{{this.price}}</p>
+          <a href="/product/{{this._id}}" class="btn btn-primary">Mas Info</a>
+        </div>
+      </div>
+    {{/each}}
+  </section>
+
+</main>
+
+
+<script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+<script src="./index.js"></script>

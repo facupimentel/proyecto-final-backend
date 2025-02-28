@@ -1,0 +1,56 @@
+<main class="d-flex w-100 flex-grow-1">
+  <section class="d-flex flex-column aling-items-center w-50">
+    <h1 class="bg-primary-subtle p-2 text-center text-primary w-100">
+      CREATE PRODUCTS
+    </h1>
+    <form class="d-flex flex-column w-50 m-3 ">
+      <input
+        class="m-2 p-2 text-center"
+        type="title"
+        name="title"
+        id="title"
+        placeholder="title"
+      />
+      <input
+        class="m-2 p-2 text-center"
+        type="price"
+        name="price"
+        id="price"
+        placeholder="price"
+      />
+      <input
+        class="m-2 p-2 text-center"
+        type="stock"
+        name="stock"
+        id="stock"
+        placeholder="stock"
+      />
+      <input
+        class="m-2 p-2 text-center"
+        type="photo"
+        name="photo"
+        id="photo"
+        placeholder="photo"
+      />
+      <input
+        class="m-2 p-2 text-center btn btn-primary"
+        type="button"
+        id="register"
+        value="Register"
+      />
+    </form>
+  </section>
+  <section
+    id="products"
+    class="d-flex flex-wrap"
+    style="width: 50%; heigth: calc(100vh - 60px); "
+  ></section>
+</main>
+
+<script
+  src="https://cdn.socket.io/4.8.1/socket.io.min.js"
+  integrity="sha384-mkQ3/7FUtcGyoppY6bz/PORYoGqOl7/aSUMn2ymDOJcapfS6PHqxhRTMh1RR0Q6+"
+  crossorigin="anonymous"
+></script>
+<script src="./scripts/createProducts.js"></script>
+{{! con esto habilitamos el modulo de socket para empezarlo a usar }}
