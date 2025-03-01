@@ -42,6 +42,17 @@ viewRouter.get("/carts", (req, res, next) => {
   }
 });
 
+viewRouter.get("/register", (req, res, next) => {
+  try {
+    const data = {
+      title: "Register",
+    };
+    res.status(200).render("Register", data);
+  } catch (error) {
+    next();
+  }
+});
+
 viewRouter.get("/profile", (req, res, next) => {
   try {
     const data = {

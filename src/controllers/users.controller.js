@@ -1,4 +1,5 @@
-import usersManager from "../data/fs/users.fs.js";
+// import usersManager from "../data/fs/users.fs.js";
+import usersManager from "../data/mongo/users.mongo.js";
 
 const readUsers = async (req, res, next) => {
   try {

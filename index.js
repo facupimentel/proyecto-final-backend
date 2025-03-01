@@ -20,7 +20,7 @@ const server = express(); // ejecutando el modulo de express se crea un servidor
 const port = process.env.PORT
 const ready = () =>{ 
     console.log("server ready on port " + port)
-    connectMongo(process.env.MONGO) // conexion a mongo
+    connectMongo(process.env.MONGO); // conexion a mongo
 };
 const httpServer = createServer(server); // creamos un servidor http con las configuraciones de express
 httpServer.listen(port, ready); // levantamos el servidor httpServer hecho con node con las configuraciones de express

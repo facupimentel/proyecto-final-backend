@@ -1,5 +1,6 @@
 import { ne } from "@faker-js/faker";
-import productsManager from "../data/fs/products.fs.js";
+// import productsManager from "../data/fs/products.fs.js";
+import productsManager from "../data/mongo/products.mongo.js";
 
 const readOneProduct = async (req, res, next) => {
   try {
