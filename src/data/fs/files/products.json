@@ -297,5 +297,12 @@
     "stock": 295,
     "photo": "https://loremflickr.com/3200/2200?lock=8899001122",
     "category": "hogar"
+  },
+  {
+    "_id": "abeb1a8d43bd1e80beb31d50",
+    "title": "Straps",
+    "price": "150",
+    "stock": "100",
+    "photo": "https://acdn-us.mitiendanube.com/stores/831/098/products/straps-tienda1-379c622b536a0947f416934834038896-1024-1024.jpg"
   }
 ]

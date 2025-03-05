@@ -10,9 +10,9 @@ import isValidProduct from "../../middlewares/isValidProduct.mid.js";
 
 const productsRouter = Router();
 
-productsRouter.get("/:pid", readOneProduct);
 productsRouter.get("/", readProducts);
 productsRouter.post("/", isValidProduct, createProduct);
+productsRouter.get("/:pid", readOneProduct);
 productsRouter.put("/:pid", updateProducts);
 productsRouter.delete("/:pid", destroyProduct);
 

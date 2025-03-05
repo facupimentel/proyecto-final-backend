@@ -4,6 +4,7 @@ import {createServer} from "http"
 import {Server as SocketServer} from "socket.io"
 import router from "./src/router/index.router.js";
 import { engine } from "express-handlebars";
+import exphbs from "express-handlebars";
 import connectMongo from "./src/helpers/mongo.helper.js";
 import __dirname from "./utils.js";
 import morgan from "morgan";
@@ -34,10 +35,10 @@ export {socketServer} // exportamos el servidor de sockets para poder usarlo en 
 
 // TEMPLATE ENGINE
 // con esto configuramos el motor de plantillas
-server.engine("handlebars", engine()); // guardamos un motor en la propiedad handlebars
+
+server.engine("handlebars", engine); // guardamos un motor en la propiedad handlebars
 server.set("view engine", "handlebars"); // configurando el motor de vistas de handlebars
 server.set("views", "./src/views"); //configuramos la ruta donde estan todas las plantillas
-
 
 /* middlewares*/
 server.use(morgan("dev"));

@@ -1,3 +1,33 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh;">
-    <h1>vista de detalle del carrito proximamente...</h1>
-</div>
+<h1>Carrito de {{cart.user_id}}</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Imagen</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each cart}}
+        <tr>
+            <td>{{this.product_id.title}}</td>
+            <td><img src={{this.product_id.thumbnails}} alt={{this.title}} width="100" height="100"></td>
+            <td>USD {{this.product_id.price}}</td>
+            <td>
+                <input type="number" min="1" value="{{this.quantity}}" data-id="{{this.product_id._id}}" class="update-quantity">
+            </td>
+            <td>
+                <button class="remove-product" data-id="{{this.product_id._id}}">Eliminar</button>
+            </td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+
+<button id="finalizar-compra" data-cart-id="{{cart_id}}">Finalizar Compra</button>
+<button id="cancelar-compra">Cancelar Compra</button>
+
+<script src="/scripts/carts.js"></script>

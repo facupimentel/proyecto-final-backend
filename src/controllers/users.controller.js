@@ -4,7 +4,7 @@ import usersManager from "../data/mongo/users.mongo.js";
 const readUsers = async (req, res, next) => {
   try {
     const { data } = req.body;
-    const one = await usersManager.readAll(data);
+    const one = await usersManager.read(data);
     if (one.length > 0) {
       return res.status(200).json({ response: one });
     }
@@ -19,7 +19,7 @@ const readUsers = async (req, res, next) => {
 const readOneUser = async (req, res, next) => {
   try {
     const { uid } = req.params;
-    const one = await usersManager.readOne(uid);
+    const one = await usersManager.readById(uid);
     if (one) {
       return res.status(200).json({ response: one });
     }
@@ -63,7 +63,7 @@ const updateUser = async (req, res, next) => {
     // de los requerimientos necesito el id y la data a actualizar
     const { uid } = req.params;
     const data = req.body;
-    const one = await usersManager.updateOne(uid, data);
+    const one = await usersManager.updateById(uid, data);
     return res.status(200).json({ response: one });
   } catch (error) {
     next(error);
@@ -73,7 +73,7 @@ const updateUser = async (req, res, next) => {
 const destroyUser = async (req, res, next) => {
   try {
     const { uid } = req.params;
-    const one = await usersManager.destroyOne(uid);
+    const one = await usersManager.destroyById(uid);
     return res.status(200).json({ response: one });
   } catch (error) {
     next(error);
